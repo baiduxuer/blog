@@ -5,7 +5,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://www.wangfan04.com//"/>
-  <updated>2015-11-08T15:25:12.324Z</updated>
+  <updated>2015-11-08T16:28:47.339Z</updated>
   <id>http://www.wangfan04.com//</id>
   
   <author>
@@ -14,6 +14,23 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[js-dom]]></title>
+    <link href="http://www.wangfan04.com/2015/10/14/js-dom/"/>
+    <id>http://www.wangfan04.com/2015/10/14/js-dom/</id>
+    <published>2015-10-14T10:44:12.000Z</published>
+    <updated>2015-11-08T16:28:47.339Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="js" scheme="http://www.wangfan04.com/tags/js/"/>
+    
+      <category term="js" scheme="http://www.wangfan04.com/categories/js/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[我是一个模板]]></title>
